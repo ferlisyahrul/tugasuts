@@ -1,0 +1,30 @@
+[
+    {  
+        "nim":"1900016007",
+        "nama":"Ferli Syahrul Gunawan",
+        "alamat":"Yogyakarta",
+        "jurusan":"Sistem Informasi",
+        "MK":[  
+           {  
+              "mk_kode":"001",
+              "nama_mk":"BASIS DATA"
+           },
+           {  
+              "mk_kode":"002",
+              "nama_mk":"TEKNOLOGI WEB"
+           },
+           {  
+              "mk_kode":"003",
+              "nama_mk":"KOMUNIKASI INTERPERSONAL"
+           },
+           {  
+              "mk_kode":"004",
+              "nama_mk":"ADMINISTRASI SISTEM DAN JARINGAN"
+           },
+           {  
+              "mk_kode":"105",
+              "nama_mk":"JARINGAN KOMPUTER"
+           }
+        ]
+     }
+  ]
